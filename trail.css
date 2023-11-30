@@ -1,0 +1,548 @@
+/* .ripplehealthcare-logo-final-1-icon {
+    position: absolute;
+    top: -622px;
+    left: -827px;
+    width: 716px;
+    height: 361px;
+    object-fit: cover;
+} */
+.dashboard-1920-child {
+    position: absolute;
+    top: 18px;
+    left: 1802px;
+    border-radius: 50%;
+    background-color: #f6f6f6;
+    border: 5px solid #098590;
+    box-sizing: border-box;
+    width: 85px;
+    height: 85px;
+}
+.dashboard-1920-item {
+    position: absolute;
+    top: 194px;
+    left: 0px;
+    background-color: rgba(9, 133, 144, 0.12);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 350px;
+    height: 54px;
+}
+.dashboard-1920-inner {
+    position: absolute;
+    top: 43px;
+    left: 369px;
+    width: 850px;
+    height: 48px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: 130px;
+    left: 350px;
+    width: 1570px;
+    height: 950px;
+}
+.dashboard {
+    position: absolute;
+    top: 209px;
+    left: 100px;
+    font-weight: 500;
+    display: inline-block;
+    width: 109px;
+    height: 28px;
+}
+.profile {
+    position: absolute;
+    top: 277px;
+    left: 104px;
+    font-weight: 500;
+    display: inline-block;
+    width: 109px;
+    height: 28px;
+    cursor: pointer;
+}
+.cloud-drive {
+    position: absolute;
+    top: 334px;
+    left: 100px;
+    font-weight: 500;
+    display: inline-block;
+    width: 122px;
+    height: 28px;
+}
+.shared-drive {
+    position: absolute;
+    top: 391px;
+    left: 100px;
+    font-weight: 500;
+    display: inline-block;
+    width: 127px;
+    height: 28px;
+}
+.setting {
+    position: absolute;
+    top: 862px;
+    left: 106px;
+    font-weight: 500;
+    display: inline-block;
+    width: 109px;
+    height: 28px;
+}
+.support {
+    position: absolute;
+    top: 930px;
+    left: 106px;
+    font-weight: 500;
+    display: inline-block;
+    width: 109px;
+    height: 28px;
+}
+.logout {
+    position: absolute;
+    top: 998px;
+    left: 106px;
+    font-weight: 500;
+    display: inline-block;
+    width: 109px;
+    height: 28px;
+}
+.logout-1-icon {
+    position: absolute;
+    top: 997px;
+    left: 50px;
+    width: 29px;
+    height: 29px;
+    object-fit: cover;
+}
+.customer-service-1-icon {
+    position: absolute;
+    top: 929px;
+    left: 50px;
+    width: 29px;
+    height: 29px;
+    object-fit: cover;
+}
+.dashboard-1-icon {
+    position: absolute;
+    top: 209px;
+    left: 44px;
+    width: 29px;
+    height: 29px;
+    object-fit: cover;
+}
+.user-1-icon {
+    position: absolute;
+    top: 275px;
+    left: 44px;
+    width: 29px;
+    height: 30px;
+    object-fit: cover;
+}
+.setting-1-icon {
+    position: absolute;
+    top: 862px;
+    left: 50px;
+    width: 29px;
+    height: 29px;
+    object-fit: cover;
+}
+.search {
+    position: absolute;
+    top: 49px;
+    left: 402px;
+    font-size: 29px;
+    font-weight: 500;
+    color: #939393;
+    display: inline-block;
+    width: 169px;
+    height: 37px;
+}
+.search-1-icon {
+    position: absolute;
+    top: 51px;
+    left: 1159px;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+.line-div {
+    position: absolute;
+    top: 35.5px;
+    left: 1671.5px;
+    border-right: 1px solid #098590;
+    box-sizing: border-box;
+    width: 1px;
+    height: 47px;
+}
+.dashboard-1920-child1 {
+    position: absolute;
+    top: 35.5px;
+    left: 1581.5px;
+    border-right: 1px solid #098590;
+    box-sizing: border-box;
+    width: 1px;
+    height: 47px;
+}
+.example {
+    margin: 0;
+}
+.example-user {
+    position: absolute;
+    top: 32px;
+    left: 1690px;
+    font-size: 25px;
+    font-weight: 500;
+    color: #767676;
+    display: inline-block;
+    width: 112px;
+    height: 71px;
+}
+.bell-1-icon {
+    position: absolute;
+    top: 41px;
+    left: 1609px;
+    width: 29px;
+    height: 28px;
+    object-fit: cover;
+}
+.div {
+    position: absolute;
+    top: 63px;
+    left: 1630px;
+    font-size: 25px;
+    font-weight: 500;
+    color: #098590;
+    display: inline-block;
+    width: 19px;
+    height: 19px;
+}
+.email-1-1 {
+    position: absolute;
+    top: 41px;
+    left: 1523px;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+.rectangle-div {
+    position: absolute;
+    top: 261px;
+    left: 441px;
+    border-radius: 18px;
+    background-color: #e1f0f2;
+    width: 1393px;
+    height: 334px;
+}
+.dashboard-1920-child2 {
+    position: absolute;
+    top: 616px;
+    left: 1129px;
+    border-radius: 18px;
+    background-color: #e1f0f2;
+    width: 705px;
+    height: 390px;
+}
+.dashboard-1920-child3 {
+    position: absolute;
+    top: 620px;
+    left: 461px;
+    border-radius: 18px;
+    background-color: #098590;
+    width: 608px;
+    height: 184px;
+}
+.dashboard-1920-child4 {
+    position: absolute;
+    top: 818px;
+    left: 461px;
+    border-radius: 18px;
+    background-color: #098590;
+    width: 608px;
+    height: 184px;
+}
+.dashboard-1920-child5 {
+    position: absolute;
+    top: 282px;
+    left: 497px;
+    border-radius: 9px;
+    background-color: #f5fbfb;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 251px;
+    height: 288px;
+}
+.dashboard-1920-child6 {
+    position: absolute;
+    top: 282px;
+    left: 827px;
+    border-radius: 9px;
+    background-color: #f5fbfb;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 251px;
+    height: 288px;
+}
+.dashboard-1920-child7 {
+    position: absolute;
+    top: 282px;
+    left: 1170px;
+    border-radius: 9px;
+    background-color: #f5fbfb;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 251px;
+    height: 288px;
+}
+.dashboard-1920-child8 {
+    position: absolute;
+    top: 282px;
+    left: 1512px;
+    border-radius: 9px;
+    background-color: #f5fbfb;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 251px;
+    height: 288px;
+}
+.global-data {
+    position: absolute;
+    top: 183px;
+    left: 455px;
+    font-size: 29px;
+    font-weight: 600;
+    color: #098590;
+    display: inline-block;
+    width: 169px;
+    height: 37px;
+}
+.risk-of-fall {
+    position: absolute;
+    top: 318px;
+    left: 553px;
+    font-size: 29px;
+    font-weight: 600;
+    color: #098590;
+    display: inline-block;
+    width: 199px;
+    height: 37px;
+}
+.monthly-visitors {
+    position: absolute;
+    top: 318px;
+    left: 1193px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #098590;
+    display: inline-block;
+    width: 244px;
+    height: 37px;
+}
+.user-details {
+    position: absolute;
+    top: 656px;
+    left: 1219px;
+    font-size: 32px;
+    font-weight: 600;
+    color: #098590;
+    display: inline-block;
+    width: 207px;
+    height: 37px;
+}
+.hip-pro {
+    position: absolute;
+    top: 670px;
+    left: 620px;
+    font-size: 58px;
+    font-weight: 600;
+    color: #fff;
+    display: inline-block;
+    width: 310px;
+    height: 71px;
+}
+.total-download {
+    position: absolute;
+    top: 318px;
+    left: 860px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #098590;
+    display: inline-block;
+    width: 235px;
+    height: 49px;
+}
+.daily-visitors {
+    position: absolute;
+    top: 318px;
+    left: 1536px;
+    font-size: 29px;
+    font-weight: 600;
+    color: #098590;
+    display: inline-block;
+    width: 224px;
+    height: 37px;
+}
+.span {
+    font-size: 36px;
+}
+.div1 {
+    position: absolute;
+    top: 404px;
+    left: 541px;
+    font-weight: 600;
+    display: inline-block;
+    width: 202px;
+    height: 147px;
+    font-size: 111px;
+}
+.k1 {
+    font-size: 30px;
+}
+.k {
+    position: absolute;
+    top: 404px;
+    left: 1215px;
+    font-weight: 600;
+    display: inline-block;
+    width: 203px;
+    height: 147px;
+    font-size: 111px;
+}
+.k2 {
+    position: absolute;
+    top: 404px;
+    left: 875px;
+    font-weight: 600;
+    display: inline-block;
+    width: 203px;
+    font-size: 111px;
+}
+.div2 {
+    position: absolute;
+    top: 404px;
+    left: 1562px;
+    font-size: 111px;
+    font-weight: 600;
+    display: inline-block;
+    width: 202px;
+    height: 147px;
+}
+.dashboard-1920-child9 {
+    position: absolute;
+    top: 857px;
+    left: 1386px;
+    border-radius: 38px;
+    background-color: #098590;
+    width: 191px;
+    height: 67px;
+}
+.dashboard-1920-child10 {
+    position: absolute;
+    top: 825.5px;
+    left: 1213.5px;
+    border-top: 1px solid #098590;
+    box-sizing: border-box;
+    width: 519px;
+    height: 1px;
+}
+.type-user-id {
+    position: absolute;
+    top: 784px;
+    left: 1231px;
+    font-size: 29px;
+    font-weight: 500;
+    color: #939393;
+    display: inline-block;
+    width: 324px;
+    height: 37px;
+}
+.search-2-icon {
+    position: absolute;
+    top: 776px;
+    left: 1678px;
+    width: 43px;
+    height: 43px;
+    object-fit: cover;
+}
+.search1 {
+    position: absolute;
+    top: 872px;
+    left: 1424px;
+    font-size: 29px;
+    font-weight: 500;
+    color: #fff;
+    display: inline-block;
+    width: 129px;
+    height: 31px;
+    cursor: pointer;
+}
+.ripplehealthcare-logo-final-2-icon {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    width: 277px;
+    height: 125px;
+    object-fit: cover;
+}
+.man-1-icon {
+    position: absolute;
+    top: 25px;
+    left: 1811px;
+    width: 67px;
+    height: 69px;
+    object-fit: cover;
+}
+.dashboard-1920-child11 {
+    position: absolute;
+    top: 626px;
+    left: 470px;
+    border-radius: 18px;
+    background-color: rgba(9, 133, 144, 0);
+    border: 7px solid #e1f0f2;
+    box-sizing: border-box;
+    width: 591px;
+    height: 172px;
+}
+.dashboard-1920-child12 {
+    position: absolute;
+    top: 824px;
+    left: 470px;
+    border-radius: 18px;
+    background-color: rgba(9, 133, 144, 0);
+    border: 7px solid #e1f0f2;
+    box-sizing: border-box;
+    width: 591px;
+    height: 172px;
+}
+.steady-steps {
+    position: absolute;
+    top: 870px;
+    left: 542px;
+    font-size: 58px;
+    font-weight: 600;
+    color: #f6f6f6;
+    display: inline-block;
+    width: 440px;
+    height: 71px;
+}
+.cloud-computing-2-icon {
+    position: absolute;
+    top: 332px;
+    left: 41px;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+.folder-icon {
+    position: absolute;
+    top: 389px;
+    left: 41px;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+.dashboard-1920 {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 19px;
+    color: #737373;
+    font-family: Inter;
+}
+
